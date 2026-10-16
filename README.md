@@ -4,13 +4,6 @@
 
 <h1 align="center">Hi, I'm Androo45! 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Androo45&style=flat-square&color=66C0F4" alt="Visitor Count" />
-  <img src="https://img.shields.io/github/followers/Androo45?label=Followers&style=flat-square&color=00E676" alt="Followers" />
-</p>
-
----
-
 ### 👨‍💻 About Me
 
 I am a software developer passionate about **native engineering**, script automation, Android applications, and gaming tools. I love optimizing workflows, building practical utilities, and experimenting with modern technologies.
