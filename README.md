@@ -1,8 +1,8 @@
 <h1 align="center">¡Hola, bienvenid@ a mi perfil! 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=66C0F4" alt="Visitor Count" />
-  <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=flat-square&color=00E676" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Androo45&style=flat-square&color=66C0F4" alt="Visitor Count" />
+  <img src="https://img.shields.io/github/followers/Androo45?label=Seguidores&style=flat-square&color=00E676" alt="Followers" />
 </p>
 
 ---
@@ -35,18 +35,18 @@ Soy un desarrollador apasionado por la **ingeniería de software nativa**, la au
 
 | Repositorio | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **[SteamDB-Android-APK](https://github.com/TU_USUARIO/SteamDB-Android-APK)** | Cliente 100% nativo para Android de telemetría de Steam con gráficos en directo y precios multidivisa. | `Kotlin` `Jetpack Compose` `CI/CD` |
+| **[SteamDB-Android-APK](https://github.com/Androo45/SteamDB-Android-APK)** | Cliente 100% nativo para Android de telemetría de Steam con gráficos en directo y precios multidivisa. | `Kotlin` `Jetpack Compose` `CI/CD` |
 
 ---
 
 ### 📊 Estadísticas de GitHub / GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=161920&title_color=66C0F4&text_color=E2E6ED&icon_color=00E676" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Androo45&show_icons=true&theme=radical&hide_border=true&bg_color=161920&title_color=66C0F4&text_color=E2E6ED&icon_color=00E676" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true&background=161920&stroke=66C0F4&ring=00E676&fire=00E676&sideLabels=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Androo45&theme=radical&hide_border=true&background=161920&stroke=66C0F4&ring=00E676&fire=00E676&sideLabels=false" alt="GitHub Streak" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ Soy un desarrollador apasionado por la **ingeniería de software nativa**, la au
 ### 🏆 Lenguajes más usados / Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=161920" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Androo45&layout=compact&theme=radical&hide_border=true&bg_color=161920" alt="Top Languages" />
 </p>
 
 ---
