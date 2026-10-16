@@ -9,7 +9,7 @@
 I am a software developer passionate about **native engineering**, script automation, Android applications, and gaming tools. I love optimizing workflows, building practical utilities, and experimenting with modern technologies.
 
 * 📍 **Based in:** Lugo, Spain
-* 🚀 **Current Main Project:** Native Android client for real-time Steam telemetry (`SteamDB-Android-APK`).
+* 🚀 **Current Main Project:** Native Android client for real-time Steam telemetry (`SteamDB for Android`).
 * ⚡ **Core Stack:** Kotlin, Jetpack Compose, Python, CI/CD automation with GitHub Actions, and performance optimization.
 
 ---
