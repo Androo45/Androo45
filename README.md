@@ -20,11 +20,11 @@ Soy un desarrollador apasionado por crear aplicaciones nativas, herramientas efi
 ### 📊 Estadísticas de GitHub / GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=161920" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Androo45&show_icons=true&theme=radical&hide_border=true&bg_color=161920" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=radical&hide_border=true&background=161920" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Androo45&theme=radical&hide_border=true&background=161920" alt="GitHub Streak" />
 </p>
 
 ---
