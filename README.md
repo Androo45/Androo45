@@ -1,18 +1,27 @@
-<h1 align="center">¡Hola, bienvenid@ a mi perfil! 👋</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Cyberpunk Header" />
+</p>
+
+<h1 align="center">Hi, I'm Androo45! 👋</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Androo45&style=flat-square&color=66C0F4" alt="Visitor Count" />
+  <img src="https://img.shields.io/github/followers/Androo45?label=Followers&style=flat-square&color=00E676" alt="Followers" />
+</p>
 
 ---
 
-### 👨‍💻 Sobre mí / About Me
+### 👨‍💻 About Me
 
-Soy un desarrollador apasionado por la **ingeniería de software nativa**, la automatización con scripts y el desarrollo de aplicaciones para Android y herramientas de videojuegos. Me encanta optimizar flujos de trabajo, crear utilidades prácticas y experimentar con tecnologías modernas.
+I am a software developer passionate about **native engineering**, script automation, Android applications, and gaming tools. I love optimizing workflows, building practical utilities, and experimenting with modern technologies.
 
-* 📍 **Base:** Lugo, España
-* 🚀 **Proyecto actual principal:** Cliente nativo para Android de telemetría de Steam (`SteamDB-Android-APK`).
-* ⚡ **Enfoque:** Kotlin, Jetpack Compose, Python, automatización CI/CD con GitHub Actions y optimización de rendimiento.
+* 📍 **Based in:** Lugo, Spain
+* 🚀 **Current Main Project:** Native Android client for real-time Steam telemetry (`SteamDB-Android-APK`).
+* ⚡ **Core Stack:** Kotlin, Jetpack Compose, Python, CI/CD automation with GitHub Actions, and performance optimization.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas / Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -26,15 +35,15 @@ Soy un desarrollador apasionado por la **ingeniería de software nativa**, la au
 
 ---
 
-### 📌 Mis Proyectos Destacados / Featured Projects
+### 📌 Featured Projects
 
-| Repositorio | Descripción | Tecnologías |
+| Repository | Description | Technologies |
 | :--- | :--- | :--- |
-| **[SteamDB-Android-APK](https://github.com/Androo45/SteamDB-Android-APK)** | Cliente 100% nativo para Android de telemetría de Steam con gráficos en directo y precios multidivisa. | `Kotlin` `Jetpack Compose` `CI/CD` |
+| **[SteamDB-Android-APK](https://github.com/Androo45/SteamDB-Android-APK)** | 100% native Android client for Steam telemetry featuring live charts and multi-currency pricing. | `Kotlin` `Jetpack Compose` `CI/CD` |
 
 ---
 
-### 📊 Estadísticas de GitHub / GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Androo45&show_icons=true&theme=radical&hide_border=true&bg_color=161920&title_color=66C0F4&text_color=E2E6ED&icon_color=00E676" alt="GitHub Stats" />
@@ -46,7 +55,7 @@ Soy un desarrollador apasionado por la **ingeniería de software nativa**, la au
 
 ---
 
-### 🏆 Lenguajes más usados / Most Used Languages
+### 🏆 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Androo45&layout=compact&theme=radical&hide_border=true&bg_color=161920" alt="Top Languages" />
@@ -55,5 +64,5 @@ Soy un desarrollador apasionado por la **ingeniería de software nativa**, la au
 ---
 
 <p align="center">
-  <i>⚡ "Construyendo software eficiente y nativo."</i>
+  <i>⚡ "Building efficient, native software."</i>
 </p>
