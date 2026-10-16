@@ -1,10 +1,5 @@
 <h1 align="center">¡Hola, bienvenid@ a mi perfil! 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Androo45&style=flat-square&color=66C0F4" alt="Visitor Count" />
-  <img src="https://img.shields.io/github/followers/Androo45?label=Seguidores&style=flat-square&color=00E676" alt="Followers" />
-</p>
-
 ---
 
 ### 👨‍💻 Sobre mí / About Me
